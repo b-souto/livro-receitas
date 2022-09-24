@@ -1,4 +1,8 @@
-# Strogonoff de Frango
+# Strogonoff de Frango :chicken:
 
-**negrito**
-*italico*
+
+
+### Ingredientes
+
+- 1 kg Frango
+- 
